@@ -33,3 +33,6 @@ El flujo se compone de los siguientes nodos:
 * **Datos Almacenados**: 
 <img width="1286" height="433" alt="image" src="https://github.com/user-attachments/assets/a35e576f-9457-407a-a485-003c26c4815b" />
 
+<img width="1021" height="708" alt="image" src="https://github.com/user-attachments/assets/d8bda0ee-ef5e-42dd-b18e-441789557004" />
+
+
