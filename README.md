@@ -26,4 +26,10 @@ El flujo se compone de los siguientes nodos:
 
 <img width="1208" height="409" alt="image" src="https://github.com/user-attachments/assets/e82be7ff-5965-4e14-9b9b-93c948ba4bf8" />
 
-* **Notificación Recibida**: `evidencias/captura_email.png`
+* **Configuración Notificaciones**: 
+
+<img width="344" height="709" alt="image" src="https://github.com/user-attachments/assets/f1990b04-07c5-471f-9f68-5bdecc3a20a4" />
+
+* **Datos Almacenados**: 
+<img width="1286" height="433" alt="image" src="https://github.com/user-attachments/assets/a35e576f-9457-407a-a485-003c26c4815b" />
+
