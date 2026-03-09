@@ -28,7 +28,7 @@ El flujo se compone de los siguientes nodos:
 
 * **Configuración Notificaciones**: 
 
-<img width="344" height="709" alt="image" src="https://github.com/user-attachments/assets/f1990b04-07c5-471f-9f68-5bdecc3a20a4" />
+<img width="341" height="709" alt="image" src="https://github.com/user-attachments/assets/ef36f3dd-f613-463c-95e0-6262163f325e" />
 
 * **Datos Almacenados**: 
 <img width="1286" height="433" alt="image" src="https://github.com/user-attachments/assets/a35e576f-9457-407a-a485-003c26c4815b" />
