@@ -22,5 +22,8 @@ El flujo se compone de los siguientes nodos:
 
 ## 📸 Evidencias
 *(Sugerencia: Inserta aquí las capturas solicitadas en las consignas)*
-* **Workflow Completo**: `evidencias/captura_workflow.png`
+* **Workflow Completo**: 
+
+<img width="1208" height="409" alt="image" src="https://github.com/user-attachments/assets/e82be7ff-5965-4e14-9b9b-93c948ba4bf8" />
+
 * **Notificación Recibida**: `evidencias/captura_email.png`
